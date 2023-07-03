@@ -10,7 +10,7 @@ weight: 130
 toc: true
 ---
 
-<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/233800/header.jpg?t=1505809470" alt="drawing"/>
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/233800/header.jpg" alt="drawing"/>
 
 Arma 3 Tools is a complete tools suite for the Real Virtuality game engine powering Arma 3. It allows you to produce your own content for the game.
 
