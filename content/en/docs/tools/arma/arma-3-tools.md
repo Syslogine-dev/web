@@ -9,7 +9,8 @@ menu:
 weight: 130
 toc: true
 ---
-![](https://cdn.cloudflare.steamstatic.com/steam/apps/233800/header.jpg?t=1505809470)
+
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/233800/header.jpg?t=1505809470" alt="drawing"/>
 
 Arma 3 Tools is a complete tools suite for the Real Virtuality game engine powering Arma 3. It allows you to produce your own content for the game.
 
@@ -22,3 +23,5 @@ Download [Arma 3 Tools](https://store.steampowered.com/app/233800/Arma_3_Tools/?
 2.  Now search for: `Arma 3 Tools`
 3.  Install: `Arma 3 Tools`
 4.  Run it, and start using the wonderful tools for Arma 3
+
+
