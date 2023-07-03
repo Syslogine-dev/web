@@ -10,4 +10,5 @@ weight: 100
 
 
 
-*	[Arma 3](\arma)
+*	[Arma 3](/arma)
+*	[BEM](/arma)
