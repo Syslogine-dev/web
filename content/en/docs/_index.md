@@ -1,6 +1,6 @@
 ---
-title: "Docs"
-linktitle: "Hello"
+title : "Docs"
+linktitle : "Docs"
 description: "Docs Doks."
 lead: ""
 draft: false
