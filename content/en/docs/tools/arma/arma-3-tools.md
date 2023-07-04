@@ -22,6 +22,10 @@ Download [Arma 3 Tools](https://store.steampowered.com/app/233800/Arma_3_Tools/?
   ![image](/images/arma-3-tools.png)
 2.  Now search for: `Arma 3 Tools`
 3.  Install: `Arma 3 Tools`
-4.  Run it, and start using the wonderful tools for Arma 3<br>
+4.  After install:<br>
+  <img src="/images/1/arma-3-tools-a.png" alt="drawing"/>
+5.  Select Arma 3 Tools<br>
+  <img src="/images/1/launch.png" alt="drawing"/>
+6.  Run it, and start using the wonderful tools for Arma 3<br>
   <img src="/images/1/arma-3-tools.png" alt="drawing"/>
 
