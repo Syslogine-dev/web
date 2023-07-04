@@ -21,7 +21,7 @@ Download [Arma 3 Tools](https://store.steampowered.com/app/233800/Arma_3_Tools/?
 1.  Open your steam and select: `Tools`<br>
   ![image](/images/arma-3-tools.png)
 2.  Now search for: `Arma 3 Tools`
-3.  Install: `Arma 3 Tools`
+3.  Install: `Arma 3 Tools`<br>
   <img src="/images/1/install.png" alt="drawing"/>
 4.  After install:<br>
   <img src="/images/1/arma-3-tools-a.png" alt="drawing"/>
