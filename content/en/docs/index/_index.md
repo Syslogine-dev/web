@@ -1,8 +1,6 @@
 ---
-title : "Exile Black"
+title : "Index"
 description: "Say whut!"
-lead: ""
-draft: false
 images: []
 weight: 100
 ---
