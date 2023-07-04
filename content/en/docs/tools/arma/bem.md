@@ -7,7 +7,7 @@ menu:
   docs:
     parent: "arma"
 weight: 130
-toc: true
+toc: false
 ---
 
 A BattlEye Filter Manager by TheMeq
@@ -26,4 +26,4 @@ BEM is TheMeq's BattlEye Filter Manager for the ArmA series of games (Specifical
 	If you have a question or query about BEM, please @TheMeq in the #addon-support channel of the ExileMod discord. You can join [HERE!](https://discord.gg/WMtr5ru)
 
 
-# How-To
+## How-To

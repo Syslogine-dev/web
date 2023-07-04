@@ -7,7 +7,7 @@ menu:
   docs:
     parent: "arma"
 weight: 130
-toc: true
+toc: false
 ---
 
 <img src="/images/1/arma3tools.jpeg" alt="drawing"/>
