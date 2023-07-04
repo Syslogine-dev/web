@@ -1,5 +1,5 @@
 ---
-title: "GitHub"
+title: "Index"
 description: "GitHub"
 draft: false
 images: []
@@ -13,5 +13,6 @@ toc: false
 
 
 
-*	After you have selected the `arma-3-exile` fetch data like:
+*	**FETCH**<br>
+  After you have selected the `arma-3-exile` fetch data like:
 	<img src="/images/1/fetch.gif" alt="drawing"/>
