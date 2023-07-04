@@ -1,12 +1,11 @@
 ---
-title : "GitHub"
-description: "Space does exist on earth."
-lead: ""
+title: "GitHub"
+description: "GitHub"
 draft: false
 images: []
 weight: 200
+toc: false
 ---
-
 
 
 
